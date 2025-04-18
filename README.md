@@ -1,2 +1,2 @@
 # git.palygroundA
-실습자료
+실습 저장소
